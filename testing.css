@@ -3,3 +3,8 @@ background-color: red;
 color: black;
 height: 20px;
 }
+.btn{
+  background-color: pink;
+  font-family: verdana;
+  font-size: 20px;
+}
