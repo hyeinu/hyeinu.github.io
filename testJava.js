@@ -1,5 +1,5 @@
 $.ajax({
-  url: "httpbin.org/post",
+  url: "http://httpbin.org/post",
   success: createDiv,
 });
 
