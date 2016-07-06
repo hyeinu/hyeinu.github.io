@@ -10,6 +10,10 @@ h1{
   padding: 5px;
 }
 
+h2{
+  color: #F5A503;
+}
+
 .btn{
   background-color: pink;
   font-family: verdana;
